@@ -1,0 +1,75 @@
+body {
+background: rgba(187, 187, 187, 0.418);
+font-family: 'Raleway', sans-serif;
+}
+
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.profile {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.foto {
+    width: 200px;
+    border: 2px solid #ffffff;
+    border-radius: 500px;
+    /*border-style:solid double dashed ;*/
+    /*
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    */
+
+    margin-top: 50px;
+    /*margin-bottom: 20px;*/
+    margin-left: 10px;
+    /*padding: 10px;*/
+
+    box-shadow: 0px 0px 12px black;
+}
+
+h1 {
+    margin-bottom: 0;
+    letter-spacing: -1px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 40px;
+    margin-top: 10px;
+}
+
+h2 {
+    margin-top: 0;
+    font-style: italic;
+    color:#565656;
+    font-weight: 100;
+    letter-spacing: -1px;
+}
+
+
+.social-links {
+    text-decoration: none;
+}
+
+.social-icons {
+    width: 25px;
+    margin: 0 5px;
+}
+
+/*
+.insta {
+    margin: 0 15px 0 15px;
+}
+essa opção aqui é caso eu nao fizesse a de cima
+*/
+
+
+
+
+
+
+
+
+

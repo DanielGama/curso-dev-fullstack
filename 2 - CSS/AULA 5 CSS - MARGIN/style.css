@@ -1,0 +1,21 @@
+body {
+background: rgba(194, 25, 25, 0.418);
+}
+
+.foto {
+    width: 200px;
+    border: 5px double #ffffff;
+    border-radius: 500px;
+    border-style:solid double dashed ;
+    /*
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    */
+
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left: 50px;
+    /* margin: 50px 10px 30px 40px; */
+}
+

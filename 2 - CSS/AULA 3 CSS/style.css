@@ -1,0 +1,9 @@
+body
+{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    /*background-position: 100% 10%; esta linha está só como comentário ..usa-se /* para isto */
+    background-position: center center ;
+    background-size: cover;
+    background-attachment: fixed;
+}

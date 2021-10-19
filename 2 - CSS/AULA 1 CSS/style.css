@@ -1,0 +1,23 @@
+body {
+background: red;
+}
+
+h3 {
+    color: green;
+}
+
+.azul {
+    color: blue;
+}
+
+h2 {
+    color: gray;
+}
+
+.foto {
+    width: 200px;
+}
+
+#paragrafo-primeiro {
+    color:honeydew
+}
